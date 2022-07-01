@@ -1,0 +1,16 @@
+.calculatorConteiner{
+    width: 380px;
+    height: 640px;
+    padding: 14px;
+    border-radius: 20px;
+    border: solid white;
+    background-color:  rgb(110, 48, 67);
+    margin: 30px auto;
+}
+
+.calculatorRows{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+  }

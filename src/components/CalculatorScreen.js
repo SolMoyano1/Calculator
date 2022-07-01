@@ -1,10 +1,11 @@
 import React from 'react';
+import '../stylesheets/CalculatorScreen.css' 
 
-function CalculatorScreen (){
+function CalculatorScreen ({showScreen}){
 
     return(
-        <div>
-            Soy la pnatalla
+        <div className='calculatorScreen'>
+            {showScreen}
         </div>
     )
 }

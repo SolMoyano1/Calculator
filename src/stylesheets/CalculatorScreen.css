@@ -1,0 +1,18 @@
+.calculatorScreen{
+    height: 75px;
+    border-radius: 30px;
+    border: solid white ;
+    margin: 20px auto;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: rgb(252, 214, 229);
+    color: rgb(100, 45, 54);
+    padding: 11px;
+    padding-right: 30px;
+    margin: solid gray;
+    box-shadow: -1px 4px 1 px 1px white;
+    letter-spacing: 3px;
+}
